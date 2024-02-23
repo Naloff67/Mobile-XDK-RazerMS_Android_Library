@@ -102,7 +102,7 @@ public class MOLPayActivity extends AppCompatActivity {
     private final static String mppinstructioncapture = "mppinstructioncapture://";
     private final static String module_id = "module_id";
     private final static String wrapper_version = "wrapper_version";
-    private final static String wrapperVersion = "0";
+    private final static String wrapperVersion = "9";
 
     private String base64Img;
     private String filename;
